@@ -1,4 +1,4 @@
-# Plano_Celular
+# Plano de Celular mais Rentável
 
 # Objetivo do Projeto
 Verificar quais dos planos oferecidos (Surf e Ultimate) gera mais receita afim de ajustar o orçamento de publicidade.
