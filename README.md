@@ -12,7 +12,7 @@ Verificar quais dos planos oferecidos (Surf e Ultimate) gera mais receita afim d
 - Seaborn
 
 # Descrição do Projeto
-O objetivo é preparar um relatório para o departamento comercial com análise sobre quais dos planos dão mais receita para ajustar o orçamento de publicidade.
+O objetivo é preparar um relatório para o departamento comercial com análise sobre quais dos planos são mais rentáveis para ajustar o orçamento de publicidade.
 
 O conjunto de dados contém os seguintes campos:
 1 - A tabela users (dados sobre usuários):
