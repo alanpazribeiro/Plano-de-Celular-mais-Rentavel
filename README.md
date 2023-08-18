@@ -15,7 +15,7 @@ Verificar quais dos planos oferecidos (Surf e Ultimate) gera mais receita afim d
 O objetivo é preparar um relatório para o departamento comercial com análise sobre quais dos planos são mais rentáveis para ajustar o orçamento de publicidade.
 
 O conjunto de dados contém os seguintes campos:
-1 - A tabela users (dados sobre usuários)
+1 - A tabela *users* (dados sobre usuários)
 - *user_id* — identificação do usuário
 - *first_name* — nome do usuário
 - *last_name* — último sobrenome do usuário
@@ -25,24 +25,24 @@ O conjunto de dados contém os seguintes campos:
 - *city* — cidade de residência do usuário
 - *plan* — nome do plano
 
-2 - A tabela calls (dados sobre as chamadas)
+2 - A tabela *calls* (dados sobre as chamadas)
 - *id* — identificador de chamada unívoco
 - *call_date* — data da chamada
 - *duration* — duração da chamada (em minutos)
 - *user_id* — o identificador do usuário que faz a chamada
 
-3 - A tabela messages (dados nas mensagens de texto):
+3 - A tabela *messages* (dados nas mensagens de texto):
 - *id* — identificador unívoco de mensagem de textos
 - *message_date* — data da mensagem de texto
 - *user_id* — o identificador do usuário que envia a mensagem de texto
 
-4 - A tabela internet (dados sobre sessões web):
+4 - A tabela *internet* (dados sobre sessões web):
 - *id* — identificador de sessão unívoco
 - *mb_used* — o volume de dados gasto durante a sessão (em megabytes)
 - *session_date* — data da sessão web
 - *user_id* — identificador do usuário
 
-5 - A tabela plans(dados sobre os planos):
+5 - A tabela *plans* (dados sobre os planos):
 - *plan_name* — o nome do plano de chamadas
 - *usd_monthly_fee* — preço mensal em dólares dos EUA
 - *minutes_included* — pacote de minutos mensal
