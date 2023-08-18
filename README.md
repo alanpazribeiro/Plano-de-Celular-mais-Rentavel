@@ -15,7 +15,7 @@ Verificar quais dos planos oferecidos (Surf e Ultimate) gera mais receita afim d
 O objetivo é preparar um relatório para o departamento comercial com análise sobre quais dos planos são mais rentáveis para ajustar o orçamento de publicidade.
 
 O conjunto de dados contém os seguintes campos:
-1 - A tabela users (dados sobre usuários):
+1 - A tabela users (dados sobre usuários)
 - *user_id* — identificação do usuário
 - *first_name* — nome do usuário
 - *last_name* — último sobrenome do usuário
@@ -38,7 +38,7 @@ O conjunto de dados contém os seguintes campos:
 
 4 - A tabela internet (dados sobre sessões web):
 - *id* — identificador de sessão unívoco
-- *mb_used* — o volume de dados gasto durante a sessão ( em megabytes)
+- *mb_used* — o volume de dados gasto durante a sessão (em megabytes)
 - *session_date* — data da sessão web
 - *user_id* — identificador do usuário
 
