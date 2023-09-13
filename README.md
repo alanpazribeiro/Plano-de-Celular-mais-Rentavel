@@ -51,4 +51,15 @@ O conjunto de dados contém os seguintes campos:
 - *usd_per_minute* — preço por minuto depois de exceder o limite do pacote (por exemplo, se o pacote inclui 100 minutos, o primeiro minuto excedente será cobrado)
 - *usd_per_message* — preço por mensagem de texto depois de exceder o limite do pacote
 - *usd_per_gb* — preço por gigabyte extra de dados após exceder o limite do pacote (1 GB = 1024 megabytes)
+
+# Execução do Projeto
+- Passo 1. Carregamento os dados e prepare-os para a análise
+  - Verificado tipo de dado
+  - Nulos/faltantes
+  - organizar/renomear colunas
+  - colunas tipo datetime
+  - amplitude das variáveis
+  - tipos de dados categóricos
+  - valores duplicados
+  - espaços e caracteres especiais nos dados
   
